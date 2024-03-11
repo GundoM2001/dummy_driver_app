@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "739248892683",
+    "project_id": "onboardingtrainerapp",
+    "storage_bucket": "onboardingtrainerapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739248892683:android:c5be1cb23491531e72500e",
+        "android_client_info": {
+          "package_name": "com.example.onboardingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1jAw_NZWdp8l-KaEss0CpTPYLon9ZzI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

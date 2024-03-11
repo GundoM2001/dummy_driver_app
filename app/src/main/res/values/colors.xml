@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name ="background">#F0F4F3</color>
+    <color name="buttonText">#50C2C9</color>
+    <color name="inactive">#C4C4C4</color>
+    <color name="active">#05A9CA</color>
+    <color name="volume">#0098B7</color>
+    <color name="penalties">#E03939</color>
+    <color name="expences">#8423EC</color>
+    <color name="revenue">#4F2EAF</color>
+    <color name="subtext">#A0A0A0</color>
+</resources>
